@@ -1,2 +1,2 @@
-# Python-Data-Analysis
-Using python to analyze datasets, identify patterns and trends
+# Data-Analysis-Code-Projects
+Using python and julia to analyze datasets, identify patterns, trends and answer data driven questions.
